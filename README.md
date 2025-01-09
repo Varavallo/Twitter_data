@@ -1,5 +1,5 @@
 # Twitter Data: "lavoro" and "università"
-Repository containing a dataset of tweets collected and filtered based on the keywords 'lavoro' (work) and 'università' (university) using Tweepy. The dataset, collected from January 2021 to October 2022, includes 22,428 tweets with various details about each tweet and its author.
+Repository containing a dataset of tweets collected and filtered based on the keywords 'lavoro' (work) and 'università' (university) using Tweepy. The dataset, collected from December 2020 to December 2022, includes 22,428 tweets with various details about each tweet and its author.
 
 
 ## Dataset Description
